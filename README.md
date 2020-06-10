@@ -1,4 +1,5 @@
-# Quick Picture-in-Picture Video (Chrome/Edge web browser extension)
+# Quick Picture-in-Picture Video 
+(Chrome/Edge web browser extension)
 
 <h2>EN</h2>
 Picture-in-Picture (PiP) floating video, is a great way of watching videos while you work on other things on your computer.
