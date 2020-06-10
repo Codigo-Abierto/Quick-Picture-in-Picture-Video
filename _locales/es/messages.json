@@ -1,0 +1,14 @@
+{
+  "Titulo": {
+    "message": "Quick Picture-in-Picture Video"
+  },
+  "Tooltip": {
+    "message": "Quick Picture-in-Picture Video:\n(Alt+P): PiP video en Play\n(Alt+Shift+P): alternar Pausa/Play\n(Alt+O): duplicar pestaña actual"
+  },
+  "Descripcion": {
+      "message": "Video flotante Pic-in-Pic (PiP) con prácticos atajos de teclado."
+  },
+  "Error_Soporte": {
+      "message": "ERROR: Modo Picture-in-Picture no soportado!"
+  }
+}
