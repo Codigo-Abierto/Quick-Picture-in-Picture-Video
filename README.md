@@ -13,8 +13,8 @@ To apply PiP video, click the extension icon or press (Alt+P) shortcut while tar
 This extension is memory efficient due to its non-persistent background.<br>
 </p>
 <p>
+Shortcuts:<br> 
 <ul>
-Shortcuts:<br>
  <li>Alt+P: Shows PiP video (last playing video).</li>
  <li>Alt+Shift+P: toggles Pause/Play.</li>
  <li>Alt+O: Opens duplicate of current active tab.</li>
@@ -34,8 +34,8 @@ Esta extensión utiliza pocos recursos al utilizar un background no persitente.<
 <br>
 </p> 
 <p>
+ Atajos de teclado: 
 <ul> 
- Atajos de teclado:
  <li>Alt+P: Muestra ventana flotante (PiP) del último video en reproducción.</li>
  <li>Alt+Shift+P: Alterna entre modo pause/play del último video.</li>
  <li>Alt+O: Abre otra copia de la pestaña activa actual.</li>
