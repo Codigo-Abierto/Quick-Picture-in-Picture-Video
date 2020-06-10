@@ -1,0 +1,14 @@
+{
+  "Titulo": {
+    "message": "Quick Picture-in-Picture Video"
+  },
+  "Tooltip": {
+    "message": "Quick Picture-in-Picture Video:\n(Alt+P): PiP playing video\n(Alt+Shift+P): toggle Pause/Play\n(Alt+O): Open duplicate tab"
+  },
+  "Descripcion": {
+      "message": "Floating Pic-in-Pic (PiP) video with useful shortcuts."
+  },
+  "Error_Soporte": {
+      "message": "ERROR: Picture-in-Picture mode not supported!"
+  }
+}
