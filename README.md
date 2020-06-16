@@ -41,3 +41,12 @@ Esta extensión utiliza pocos recursos al utilizar un background no persitente.<
  <li>Alt+O: Abre otra copia de la pestaña activa actual.</li>
 </ul>
 </p>
+
+<h2>INSTALACION:</h2>
+<h3>CHROME:</h3>
+<p>
+Descarga la extensión para Desktop desde el <i>Chrome Web Store</i>:<br>
+https://chrome.google.com/webstore/detail/clehbpngdmpoikbmnflclhbpgmggeecl/
+</p>
+</div> 
+
