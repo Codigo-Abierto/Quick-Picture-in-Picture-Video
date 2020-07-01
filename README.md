@@ -48,5 +48,10 @@ Esta extensión utiliza pocos recursos al utilizar un background no persitente.<
 Descarga la extensión para Desktop desde el <i>Chrome Web Store</i>:<br>
 https://chrome.google.com/webstore/detail/clehbpngdmpoikbmnflclhbpgmggeecl/
 </p>
+<h3>EDGE:</h3>
+<p>
+Descarga la extensión para Desktop desde Microsoft Edge Add-ons:
+https://microsoftedge.microsoft.com/addons/detail/quick-pictureinpicture-/apggmllaadgembaggiohjbkpifeakiik 
+</p>
 </div> 
 
