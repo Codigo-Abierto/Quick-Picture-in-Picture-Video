@@ -50,7 +50,7 @@ https://chrome.google.com/webstore/detail/clehbpngdmpoikbmnflclhbpgmggeecl/
 </p>
 <h3>EDGE:</h3>
 <p>
-Descarga la extensión para Desktop desde Microsoft Edge Add-ons:
+Descarga la extensión para Desktop desde Microsoft Edge Add-ons:<br>
 https://microsoftedge.microsoft.com/addons/detail/quick-pictureinpicture-/apggmllaadgembaggiohjbkpifeakiik 
 </p>
 </div> 
